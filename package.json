@@ -1,0 +1,34 @@
+{
+  "name": "drappointmentsbsysy",
+  "version": "1.0.0",
+  "description": "Doctor Appointment booking system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ak154/Dr-Appointment-Booking-Sys.git"
+  },
+  "keywords": [
+    "Appointment",
+    "booking",
+    "syster"
+  ],
+  "author": "anand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ak154/Dr-Appointment-Booking-Sys/issues"
+  },
+  "homepage": "https://github.com/Ak154/Dr-Appointment-Booking-Sys#readme",
+  "dependencies": {
+    "antd": "^5.9.2",
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "moment": "^2.29.4",
+    "mongoose": "^7.5.2"
+  }
+}
