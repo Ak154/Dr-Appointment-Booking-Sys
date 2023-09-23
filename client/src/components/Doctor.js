@@ -3,7 +3,6 @@ import { useNavigate } from "react-router-dom";
 
 const Doctor = ({ doctor }) => {
   const navigate = useNavigate(); 
-  const navigate1 = useNavigate(); 
   return (
     <div
       className="card p-2 cursor-pointer"
